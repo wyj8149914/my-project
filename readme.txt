@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 Git tracks && changes of many files.
 branch dev
 this is a branch dev
+fix bug
